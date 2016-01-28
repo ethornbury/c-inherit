@@ -16,6 +16,14 @@ namespace InheritEx
 
             Console.WriteLine(p.ToString());
             Console.WriteLine(p1.ToString());
+            Console.WriteLine("******");
+
+            Student s = new Student("Emer", "Thornbury", 12);
+            Student s1 = new Student("Dean", "McGuiness", 14);
+            Console.WriteLine(s.ToString());
+            Console.WriteLine(s1.ToString());
+
+            Console.WriteLine("******");
 
             Console.ReadLine();
         }

@@ -12,6 +12,16 @@ namespace InheritEx
 
         public Student(string fn, string ln, int id):base(fn, ln)
         {
+            StudentID = id;
+        }
+
+        public override string ToString()
+        {
+            StringBuilder sb = new StringBuilder();
+            sb.Append(base.ToString());
+            sb.Append("\nStudent ID: ");
+            sb.Append(StudentID);
+            return sb.ToString();
 
         }
 
