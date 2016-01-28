@@ -1,0 +1,6 @@
+P:\OOP\InheritEx\InheritEx\bin\Debug\InheritEx.exe.config
+P:\OOP\InheritEx\InheritEx\bin\Debug\InheritEx.exe
+P:\OOP\InheritEx\InheritEx\bin\Debug\InheritEx.pdb
+P:\OOP\InheritEx\InheritEx\obj\Debug\InheritEx.csprojResolveAssemblyReference.cache
+P:\OOP\InheritEx\InheritEx\obj\Debug\InheritEx.exe
+P:\OOP\InheritEx\InheritEx\obj\Debug\InheritEx.pdb
