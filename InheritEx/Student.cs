@@ -10,7 +10,8 @@ namespace InheritEx
     {
         public int StudentID { get; set; }
 
-        public Student(string fn, string ln, int id):base(fn, ln)
+        public Student(string fn, string ln, int id)
+            :base(fn, ln)
         {
             StudentID = id;
         }
